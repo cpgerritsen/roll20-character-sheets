@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-roll20-character-sheets",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-roll20-character-sheets",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
